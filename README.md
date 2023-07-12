@@ -1,16 +1,17 @@
-# flutter_application_1
+##### Functionality:
 
-A new Flutter project.
+App that generates word pairs, and allows the user to add words to a liked list.
+App contains a separate page to manage the liked list.
 
-## Getting Started
+##### Functions to be added in future:
 
-This project is a starting point for a Flutter application.
+Add ability to persist liked list.
 
-A few resources to get you started if this is your first Flutter project:
+##### Screenshots:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App home](https://github.com/EJM97/flutter_application_1/assets/32839699/3b660d85-e644-4f01-8a30-a863b858278c)
+![app Favorites](https://github.com/EJM97/flutter_application_1/assets/32839699/1b2feb1d-39da-491e-bb29-91f5daa3876e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##### References :
+
+https://codelabs.developers.google.com/codelabs/flutter-codelab-first#1
